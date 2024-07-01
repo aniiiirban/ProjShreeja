@@ -20,8 +20,8 @@ noButton.addEventListener('mouseover', function() {
 });
 
 yesButton.addEventListener('click', function(){
-    // window.open(filename, '_blank');
-    alert("you clicked");
+     window.open("https://aniiiirban.github.io/ProjShreeExt/", '_blank');
+   
 });
 
 // document.addEventListener("DOMContentLoaded", function() {
