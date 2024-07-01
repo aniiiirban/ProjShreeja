@@ -9,11 +9,11 @@
     });
 
     quad2.addEventListener("click", function() {
-        alert("Time flies with you. I swaer to god, I can go from jam-packed days with you as well as just laying on the bed days with you, and trust me it'll both be the same for me. I have no understanding of time with you. ");
+        alert("Time flies with you. I swear to god, I can go from jam-packed days with you as well as just laying on the bed days with you, and trust me it'll both be the same for me. I have no understanding of time with you. ");
     });
 
     quad3.addEventListener("click", function() {
-        alert("I can go on and on about how much you mean to me. Everything from your eyes, lips, hair, hands, your tinkering laughter, your innocence, I love all of it. Everything about you amazes me Shreeja. You bring life to me. I love you. ");
+        alert("I can go on and on about how much you mean to me. Everything, from your eyes, lips, hair, hands, your giggles, your innocence, I love all of it. Everything about you amazes me Shreeja. You bring life to me. I love you. ");
     });
 
     quad4.addEventListener("click", function() {
